@@ -1,6 +1,6 @@
 # Elemental Crashes (VDD Final Assignment)
 
-Repository dedicated to our last VDD subject assignment, in which we were tasked to create a prototype and subsequent document based on our previous assignments.
+Repository dedicated to our last Videogame Design and Development subject assignment, in which we were tasked to create a prototype and subsequent document based on our previous assignments.
 
 ### Students Involved
 
